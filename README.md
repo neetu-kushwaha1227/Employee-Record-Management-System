@@ -1,6 +1,6 @@
 # Employee-Record-Management-System
 
-A simple web application to manage employee profiles using **PHP**, **MySQL**, **HTML/CSS**.
+A simple web application to manage employee profiles using **PHP**, **MySQL**, **HTML/CSS/JavaScript**.
 
 ## Features
 
